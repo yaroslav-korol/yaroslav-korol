@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 💡 Learning in Progress
+
+I'm currently reinforcing my understanding of data structures, algorithms, and design by solving problems on [LeetCode](https://leetcode.com/YOUR_USERNAME/). Follow along if you're curious!
+
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats-seven-ashen-19.vercel.app/api?username=yaroslav-korol)](https://github.com/anuraghazra/github-readme-stats)
