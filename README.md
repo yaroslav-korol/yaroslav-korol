@@ -1,7 +1,8 @@
 # Hi, I'm Yaroslav 👋
 
 I'm a backend-focused software engineer with a strong interest in scalable systems, APIs, and clean code. I enjoy working across the stack when needed, and I'm currently deepening my understanding of software design, data structures, and system architecture.
-💚 In love with C.
+
+🖤 In love with C.
 
 ## 💻 What I'm Working On
 
@@ -18,7 +19,6 @@ I'm a backend-focused software engineer with a strong interest in scalable syste
   A real-world Celery-based worker handling blockchain transactions and service integrations. Available on request.
 
 - [**youtube-clone-frontend**](https://github.com/yaroslav-korol/youtube-clone-frontend)  
-  A polished frontend clone of YouTube’s homepage built using only HTML, CSS, and a bit of JS — [Live demo](https://yaroslav-korol.github.io/youtube-clone-frontend/)
   Responsive frontend project built with HTML, CSS, and vanilla JS — [Live demo](https://yaroslav-korol.github.io/youtube-clone-frontend)
 
 ## 🚀 Ongoing Learning
