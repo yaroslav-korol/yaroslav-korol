@@ -25,7 +25,7 @@ I'm a backend-focused software engineer with a strong interest in scalable syste
 
 I'm also reinforcing my computer science foundations by solving algorithm problems and studying system design:
 
-- Practicing on [LeetCode](https://leetcode.com/yaroslav-korol/) — currently solving problems following the NeetCode roadmap  
+- Practicing on [LeetCode](https://leetcode.com/yaroslav_v_korol/) — currently solving problems following the NeetCode roadmap  
 - Studying system design concepts to improve architectural thinking
 
 ---
