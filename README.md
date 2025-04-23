@@ -1,9 +1,36 @@
-### Hi there 👋
+# Hi, I'm Yaroslav 👋
 
-### 💡 Learning in Progress
+I'm a backend-focused software engineer with a strong interest in scalable systems, APIs, and clean code. I enjoy working across the stack when needed, and I'm currently deepening my understanding of software design, data structures, and system architecture.
+💚 In love with C.
 
-I'm currently reinforcing my understanding of data structures, algorithms, and design by solving problems on [LeetCode](https://leetcode.com/YOUR_USERNAME/). Follow along if you're curious!
+## 💻 What I'm Working On
 
+- **Backend & System Design:** Python, FastAPI, async processing, microservices
+- **Real-world experience:** Blockchain-integrated data workers, API-based data pipelines, production codebases
+- **Core Engineering Skills:** Implementing everything I learn — from SOLID principles and design patterns to algorithmic thinking
+
+## 📚 Projects & Practice
+
+- [**swe-foundations-python**](https://github.com/yaroslav-korol/swe-foundations-python)  
+  My personal coding archive — implementations of algorithms, OOP, design patterns, SOLID, and more.
+  
+- **Production worker (private repo):**  
+  A real-world Celery-based worker handling blockchain transactions and service integrations. Available on request.
+
+- [**youtube-clone-frontend**](https://github.com/yaroslav-korol/youtube-clone-frontend)  
+  A polished frontend clone of YouTube’s homepage built using only HTML, CSS, and a bit of JS — [Live demo](https://yaroslav-korol.github.io/youtube-clone-frontend/)
+  Responsive frontend project built with HTML, CSS, and vanilla JS — [Live demo](https://yaroslav-korol.github.io/youtube-clone-frontend)
+
+## 🚀 Ongoing Learning
+
+I'm also reinforcing my computer science foundations by solving algorithm problems and studying system design:
+
+- Practicing on [LeetCode](https://leetcode.com/yaroslav-korol/) — currently solving problems following the NeetCode roadmap  
+- Studying system design concepts to improve architectural thinking
+
+---
+
+Thanks for checking out my profile!
 
 
 <!--
